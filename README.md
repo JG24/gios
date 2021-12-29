@@ -86,3 +86,19 @@ You can also download data from all sensors using the command:
 php gios.php getall 9153
 ```
 Where 9153 is Station ID.
+
+All json files are stored in "data/" directory.
+```
+ls data/
+```
+returns
+```
+14707-co.json
+14727-no2.json
+14729-o3.json
+14730-pm10.json
+14731-pm2.5.json
+14733-so2.json
+14734-c6h6.json
+```
+```
