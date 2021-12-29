@@ -1,4 +1,4 @@
-# Simple PHP GIOS API client
+# Simple PHP GIOS API client (CLI)
 
 **1. Setup and display options**
 
@@ -100,5 +100,4 @@ returns
 14731-pm2.5.json
 14733-so2.json
 14734-c6h6.json
-```
 ```
